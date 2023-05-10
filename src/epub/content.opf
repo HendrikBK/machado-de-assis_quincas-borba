@@ -275,15 +275,15 @@
 		<item href="text/chapter-199.xhtml" id="chapter-199.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-200.xhtml" id="chapter-200.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-201.xhtml" id="chapter-201.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/cólofon.xhtml" id="cólofon.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/epigraph.xhtml" id="epigraph.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/prólogo.xhtml" id="prólogo.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
-		<itemref idref="prólogo.xhtml"/>
+		<itemref idref="epigraph.xhtml"/>
 		<itemref idref="halftitlepage.xhtml"/>
 		<itemref idref="chapter-1.xhtml"/>
 		<itemref idref="chapter-2.xhtml"/>
@@ -486,6 +486,6 @@
 		<itemref idref="chapter-199.xhtml"/>
 		<itemref idref="chapter-200.xhtml"/>
 		<itemref idref="chapter-201.xhtml"/>
-		<itemref idref="cólofon.xhtml"/>
+		<itemref idref="colophon.xhtml"/>
 	</spine>
 </package>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="pŕologo.xhtml">
+		<ignore>
+			<code>f-008</code>
+			<reason>1</reason>
+		</ignore>
+	</file>
+	<file path="content.xhtml">
+		<ignore>
+			<code>m-043</code>
+			<reason>1</reason>
+		</ignore>
+	</file>
+	<file path="chapter-31.xhtml">
+		<ignore>
+			<code>t-002</code>
+			<reason>1</reason>
+		</ignore>
+	</file>
+	<file path="chapter-32.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>1</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
